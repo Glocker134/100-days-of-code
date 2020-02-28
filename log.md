@@ -6,7 +6,7 @@
 
 **Thoughts:** It's been approximately 4 months since I "took a break" from the Odin Project program (because of personal issues), and I feel like I need to refresh my memory on the basics of both HTML and JavaScript, and for once commit to complete the FreeCodeCamp program, with the Odin Project one on the side. 
 
-**Link to work:** 
+**Link to work:**  
 [Introduction to Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)  
 
 Note: Not enough progress was made on Scratch to consider a proper git commit.
@@ -18,7 +18,7 @@ Note: Not enough progress was made on Scratch to consider a proper git commit.
 
 **Thoughts:** Still trying to figure out what things can be done with Scratch, especially in a 5-day window. Also, might consider adding a small bird-like object to be used either as a background animation or as a special scoring target.
 
-**Link to work:** 
+**Link to work:**  
 [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)  
 [CS50 repo link](https://github.com/Glocker134/CS50-projects)  
 ---------------------------------------------------------
