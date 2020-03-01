@@ -43,8 +43,22 @@ The assignment is pretty much done based on the requirements, but I might refine
 ---------------------------------------------------------
 ### Day 3: February 29, 2020.
 
-**Today's Progress:** 
+**Today's Progress:**  
+Completed the lesson 0 assignment and delivered it to the course's git folder.  
+Completed the "Introduction to Basic CSS" block on FreeCodeCamp.
 
-**Thoughts:** 
+**Thoughts:**  
+Today was a bit of a slow day, since the main focus was to finish the assignment. The bird idea was discarded since there weren't decent sprites to implement the idea (and don't really have the ability to create a transparent sprite). Tomorrow's focus will be FreeCodeCamp and the video for lesson 1 of CS50.
 
-**Link to work:** 
+**Link to work:**  
+[Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)  
+[CS50 Lesson 0 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_0)  
+
+---------------------------------------------------------
+### Day 4: March 1st, 2020.
+
+**Today's Progress:**  
+
+**Thoughts:**  
+
+**Link to work:**  
