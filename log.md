@@ -58,7 +58,19 @@ Today was a bit of a slow day, since the main focus was to finish the assignment
 ### Day 4: March 1st, 2020.
 
 **Today's Progress:**  
+Completed 4 out 5 assignments for the lesson 1 of the CS50 course.  
+
+**Thoughts:**  
+It's been a while since I used C. Still remember a few things, and gotta remember about the pointers when the time is right. Also, I need to remember to use style50 after completing each assignment and correct the code.  
+
+**Link to work:**  
+[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_1)  
+
+---------------------------------------------------------
+### Day 5: March 2nd, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
-**Link to work:**  
+**Link to work:** 
