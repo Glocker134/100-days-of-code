@@ -70,6 +70,20 @@ It's been a while since I used C. Still remember a few things, and gotta remembe
 ### Day 5: March 2nd, 2020.
 
 **Today's Progress:**  
+Made progress on the last assignment for CS50, still need to work on a few extra functions for validation purposes.  
+Made progress on the "Applied Visual Design" block on FreeCodeCamp.
+
+**Thoughts:**  
+Not a lot of progress was made today due to sidetracking with terminal experimentation.
+
+**Link to work:**  
+[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_1)  
+[Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)  
+
+---------------------------------------------------------
+### Day 6: March 2nd, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
