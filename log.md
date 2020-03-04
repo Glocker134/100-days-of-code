@@ -84,7 +84,22 @@ Not a lot of progress was made today due to sidetracking with terminal experimen
 ### Day 6: March 2nd, 2020.
 
 **Today's Progress:**  
+Completed all of week 1 assignments for CS50.  
+Made some progress on the "Applied Visual Design" block on FreeCodeCamp.  
+Started reading [Eloquent JavaScript](https://eloquentjavascript.net/)- just the introduction for now.  
+
+**Thoughts:**  
+I need to pay attention when reading code during debugging/troubleshooting. A very easy to fix issue took me a good portion of the day. Granted, clang's output wasn't extremely helpful, but I still need to pay attention and take my time while reading.  
+
+**Link to work:**  
+[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_1)  
+[Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
+
+---------------------------------------------------------
+### Day 7: March 3, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
-**Link to work:** 
+**Link to work:**
