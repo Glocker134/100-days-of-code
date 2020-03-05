@@ -99,6 +99,18 @@ I need to pay attention when reading code during debugging/troubleshooting. A ve
 ### Day 7: March 3, 2020.
 
 **Today's Progress:**  
+Read chapter 1 of Eloquent JavaScript. 
+
+**Thoughts:**  
+Today was a very packed day, not enough time to do some significant progress on FreeCodeCamp or CS50, so a bit of reading should do. Tomorrow will be focused on week 2 of CS50.  
+
+**Link to work:**  
+None for today.
+
+---------------------------------------------------------
+### Day 8: March 4, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
