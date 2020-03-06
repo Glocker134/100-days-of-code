@@ -81,7 +81,7 @@ Not a lot of progress was made today due to sidetracking with terminal experimen
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)  
 
 ---------------------------------------------------------
-### Day 6: March 2nd, 2020.
+### Day 6: March 3, 2020.
 
 **Today's Progress:**  
 Completed all of week 1 assignments for CS50.  
@@ -96,7 +96,7 @@ I need to pay attention when reading code during debugging/troubleshooting. A ve
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
 
 ---------------------------------------------------------
-### Day 7: March 3, 2020.
+### Day 7: March 4, 2020.
 
 **Today's Progress:**  
 Read chapter 1 of Eloquent JavaScript. 
@@ -108,7 +108,19 @@ Today was a very packed day, not enough time to do some significant progress on 
 None for today.
 
 ---------------------------------------------------------
-### Day 8: March 4, 2020.
+### Day 8: March 5, 2020.
+
+**Today's Progress:**  
+Started working on the lesson 2 assignments for CS50.  
+
+**Thoughts:**  
+The readability project is almost done. It could have been finished earlier, but the IDE site was throwing error 500 right after granting permission and log in. It still needs a bit of finetuning on how decimals are rounded and organizing stuff into extra functions, rather than pack everything inside the main function. Overall, it gives a correct readability grade for the rest of the tests.  
+
+**Link to work:**  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+
+---------------------------------------------------------
+### Day 9: March 6, 2020.
 
 **Today's Progress:**  
 
