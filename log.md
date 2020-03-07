@@ -123,7 +123,19 @@ The readability project is almost done. It could have been finished earlier, but
 ### Day 9: March 6, 2020.
 
 **Today's Progress:**  
+Finished the readability assignment for CS50.  
+
+**Thoughts:**  
+Despite my solution being correct, I'm pretty sure that my implementation was not the "right" one in terms of code maintanability - Lack of extra functions, everything is inside the main function. I will have to return to this assignment in the future and adjust it.   
+
+**Link to work:**  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+
+---------------------------------------------------------
+### Day 10: March 7, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
-**Link to work:**
+**Link to work:**  
