@@ -135,6 +135,18 @@ Despite my solution being correct, I'm pretty sure that my implementation was no
 ### Day 10: March 7, 2020.
 
 **Today's Progress:**  
+Started working on the Caesar cipher assignment for CS50.
+
+**Thoughts:**  
+First time writing a program that requires a command line argument. Still need to work on validation for said argument, but at least it checks if an argument has been passed, otherwise it shows the correct/expected syntax.
+
+**Link to work:**  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+
+---------------------------------------------------------
+### Day 11: March 8, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
