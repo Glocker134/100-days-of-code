@@ -147,6 +147,18 @@ First time writing a program that requires a command line argument. Still need t
 ### Day 11: March 8, 2020.
 
 **Today's Progress:**  
+Finished the Caesar cipher assignment for CS50.
+
+**Thoughts:**  
+Interestingly enough, I barely used the cs50 header due to how C handles strings, especially when not using pointers. Tomorrow's focus will be the substitution problem with a bit of FreeCodeCamp.  
+
+**Link to work:**  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+
+---------------------------------------------------------
+### Day 12: March 9, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
