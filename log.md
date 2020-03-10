@@ -159,6 +159,20 @@ Interestingly enough, I barely used the cs50 header due to how C handles strings
 ### Day 12: March 9, 2020.
 
 **Today's Progress:**  
+Started and finished the Substitution cipher assignment for CS50.  
+Made some progress on the "Applied Visual Design" block on FreeCodeCamp.  
+
+**Thoughts:**  
+This problem was WAY easier to solve compared to the Caesar one due to the more rigid requirements. Granted, a few things can be copied/recycled from the Caesar code, but the core functionality was easier to plan out.  
+
+**Link to work:**  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+[Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)  
+
+---------------------------------------------------------
+### Day 13: March 10, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
