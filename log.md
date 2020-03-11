@@ -173,7 +173,22 @@ This problem was WAY easier to solve compared to the Caesar one due to the more 
 ### Day 13: March 10, 2020.
 
 **Today's Progress:**  
+Watched the lesson 3 video for CS50.  
+Made a bit of progress on FreeCodeCamp.  
+Read chapter 2 of Eloquent JavaScript (exercises are pending).  
+
+**Thoughts:**  
+Didn't have to create a new set of files for the lesson 3 assignments, since most of the code is already provided and the job is to write whatever functions it requires. Will start working on Plurality tomorrow, as well as the Eloquent JavaScript exercises.  
+The visual design bits in FreeCodeCamp are a bit plain. Also it gets a bit confusing when working with C and JavaScript at the same time.
+
+**Link to work:**  
+[Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)  
+
+---------------------------------------------------------
+### Day 14: March 11, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
-**Link to work:**  
+**Link to work:**
