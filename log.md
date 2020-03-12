@@ -188,7 +188,22 @@ The visual design bits in FreeCodeCamp are a bit plain. Also it gets a bit confu
 ### Day 14: March 11, 2020.
 
 **Today's Progress:**  
+Finished the plurality assignment for CS50.  
+Finished the Eloquent JS lesson 2 exercises.  
+
+**Thoughts:**  
+First time I've used structs in C. It kinda reminds me of lists, but a bit more restrictive.  
+Also, I've read a few things about the FizzBuzz algorithm being a "common" question in coding interviews. I have to say, the "non-ES6 heavy" answer isn't that bad - 5 lines of code by eliminating unnecessary curly braces.
+
+**Link to work:**  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+[Eloquent JavaScript exercise repo link](https://github.com/Glocker134/eloquentjs_exercises)  
+
+---------------------------------------------------------
+### Day 15: March 12, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
-**Link to work:**
+**Link to work:**  
