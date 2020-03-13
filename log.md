@@ -203,6 +203,18 @@ Also, I've read a few things about the FizzBuzz algorithm being a "common" quest
 ### Day 15: March 12, 2020.
 
 **Today's Progress:**  
+Finished the runoff assignment for CS50.  
+
+**Thoughts:**  
+Not a lot of progress was made today. The walkthrough video for the assignment worked wonders explaning what each function was meant to do. I will probably have to use the walkthrough video for the tideman assignment tomorrow.  
+
+**Link to work:**  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+
+---------------------------------------------------------
+### Day 16: March 13, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
