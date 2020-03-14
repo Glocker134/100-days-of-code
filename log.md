@@ -215,6 +215,19 @@ Not a lot of progress was made today. The walkthrough video for the assignment w
 ### Day 16: March 13, 2020.
 
 **Today's Progress:**  
+Started working on the Tideman assignment for CS50.  
+
+**Thoughts:**  
+This one is turning out to be a bit of a tricky one, but I THINK I should be able to complete it by tomorrow. Also I noticed I can receive a free certificate for completing CS50x with a grade of 70% or higher. There is also the paid certificate via edX, but that one can probably wait. The free one will do for now.  
+The final project is going to be interesting.  
+
+**Link to work:**  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+
+---------------------------------------------------------
+### Day 17: March 14, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
