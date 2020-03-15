@@ -228,6 +228,18 @@ The final project is going to be interesting.
 ### Day 17: March 14, 2020.
 
 **Today's Progress:**  
+Read chapter 3 of Eloquent JavaScript, as well as doing the exercises for the chapter.  
+
+**Thoughts:**  
+I decided to take a day off from the Tideman assignment to continue reading Eloquent JavaScript. After all, I'm going to need a bit of extra JS knowledge for the CS50 final project.  
+
+**Link to work:**  
+[Eloquent JavaScript exercise repo link](https://github.com/Glocker134/eloquentjs_exercises)  
+
+---------------------------------------------------------
+### Day 18: March 15, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
