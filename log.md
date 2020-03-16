@@ -240,6 +240,18 @@ I decided to take a day off from the Tideman assignment to continue reading Eloq
 ### Day 18: March 15, 2020.
 
 **Today's Progress:**  
+Continued working on the Tideman assignment for CS50.  
+
+**Thoughts:**  
+Today's objective was to read about merge sort and how to implement it. The key here is that it has to be in reverse - sorting from largest to smallest. The pseudocode is ready, but I'm still trying to translate it into C code - do note, this is just the basic example implementation of reverse merge sort, I still need to edit the code in order to use it with the Tideman assignment.
+
+**Link to work:**  
+None for today.  
+
+---------------------------------------------------------
+### Day 19: March 16, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
