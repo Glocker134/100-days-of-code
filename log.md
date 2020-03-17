@@ -252,6 +252,18 @@ None for today.
 ### Day 19: March 16, 2020.
 
 **Today's Progress:**  
+Made some progress on the Tideman assignment. Finished the base version of the merge sort algorithm.  
+
+**Thoughts:**  
+The basic version of merge sort is now ready (after dealing with a couple of segfaults), Tomorrow I can start working on adjusting it to fit in the Tideman code.
+
+**Link to work:**  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+
+---------------------------------------------------------
+### Day 20: March 17, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
