@@ -264,6 +264,18 @@ The basic version of merge sort is now ready (after dealing with a couple of seg
 ### Day 20: March 17, 2020.
 
 **Today's Progress:**  
+Finished the merge sort function for the Tideman assignment.
+
+**Thoughts:**  
+Adapting the basic merge sort to the Tideman code was a bit of a mouthful. Clang didn't show any error while compiling, so I THINK it's good to go. I started planning how to do the lock_pairs function, but I need to read a bit more about how locking a pair should take priority.  
+
+**Link to work:**  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+
+---------------------------------------------------------
+### Day 21: March 18, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
