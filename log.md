@@ -276,6 +276,18 @@ Adapting the basic merge sort to the Tideman code was a bit of a mouthful. Clang
 ### Day 21: March 18, 2020.
 
 **Today's Progress:**  
+Read chapter 4 of Eloquent JavaScript.  
+
+**Thoughts:**  
+Today was a bit of a sluggish day. Tried to work on the lock_pairs function, but I couldn't think of a way to check if the table would lead to a cycle, so I decided to read a bit more. And even then, couldn't get to retain most of the information. I will give it a second read in the morning, and then get back on track.  
+
+**Link to work:**  
+None for today.  
+
+---------------------------------------------------------
+### Day 22: March 19, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
