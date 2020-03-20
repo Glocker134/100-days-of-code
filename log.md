@@ -288,6 +288,18 @@ None for today.
 ### Day 22: March 19, 2020.
 
 **Today's Progress:**  
+Made some progress on the Tideman assignment.  
+
+**Thoughts:**  
+Turns out the lock_pairs function was a bit easier to implement than what I originally thought. Granted, I've yet to fully test the whole program, but tomorrow should be focused on debugging once I'm done with the last function.  
+
+**Link to work:**  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+
+---------------------------------------------------------
+### Day 23: March 20, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
