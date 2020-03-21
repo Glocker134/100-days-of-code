@@ -300,6 +300,18 @@ Turns out the lock_pairs function was a bit easier to implement than what I orig
 ### Day 23: March 20, 2020.
 
 **Today's Progress:**  
+Finished the Tideman aassignment for CS50.
+
+**Thoughts:**  
+Debugging didn't take too long, barely 30 minutes, though I still have two "errors" according to the tests, but I'm quite happy with a 92/100. I can return to this later and fix it, but for now, I can now start week 4 and get back on track (it's been 10 days trying to complete all of week 3).  
+
+**Link to work:**  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+
+---------------------------------------------------------
+### Day 24: March 21, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
