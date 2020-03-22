@@ -312,6 +312,18 @@ Debugging didn't take too long, barely 30 minutes, though I still have two "erro
 ### Day 24: March 21, 2020.
 
 **Today's Progress:**  
+Watched CS50 lesson 4 and prepared the IDE session for the first assignment.  
+
+**Thoughts:**  
+Week 4 video was all about pointers, which I've worked with before, but remember nearly nothing about them. Additionally, future assignments can't use the cs50 header file, so the "training wheels" are officially off. As for this week's assignment, there seems to be almost no difference between filter_less and filter_more, other than one extra filter on filter_more. In the meantime, I'll focus on filter_less, then give filter_more a shot.
+
+**Link to work:**  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+
+---------------------------------------------------------
+### Day 25: March 22, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
