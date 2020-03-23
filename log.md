@@ -324,6 +324,18 @@ Week 4 video was all about pointers, which I've worked with before, but remember
 ### Day 25: March 22, 2020.
 
 **Today's Progress:**  
+Started working on the chapter 4 exercises for Eloquent JavaScript.  
+
+**Thoughts:**  
+Content-wise, things are starting to get on "par" with CS50, at least in concept. I have to read a bit more about objects and how to implement "lists" in JavaScript - I remember lists in C, but the "implementation" in JS is somewhat different (considering lists aren't really a thing in JS). Still need to complete 2 more exercises.  
+
+**Link to work:**  
+[Eloquent JavaScript exercise repo link](https://github.com/Glocker134/eloquentjs_exercises)  
+
+---------------------------------------------------------
+### Day 26: March 23, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
