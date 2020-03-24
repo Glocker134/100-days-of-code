@@ -336,6 +336,18 @@ Content-wise, things are starting to get on "par" with CS50, at least in concept
 ### Day 26: March 23, 2020.
 
 **Today's Progress:**  
+Started working on the filter-less assignment for CS50.  
+
+**Thoughts:**  
+I tried to solve the other two Chapter 4 exercises, but I was drawing a blank on JS lists, so I decided to start working on the week 4 assignments. Turns out filter-less wasn't as problematic as I thought it'd be. I only need to implement the blur function and I'm done. I could probably read a bit about the edge detection function required for filter-more, since it's the only unique function between both versions. Also, had to fix the file in the repo since I downloaded the wrong one from the IDE.  
+
+**Link to work:**  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+
+---------------------------------------------------------
+### Day 27: March 24, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
