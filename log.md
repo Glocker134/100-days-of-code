@@ -348,6 +348,18 @@ I tried to solve the other two Chapter 4 exercises, but I was drawing a blank on
 ### Day 27: March 24, 2020.
 
 **Today's Progress:**  
+Finished the blur function for the filter-less assignment.
+
+**Thoughts:**  
+Although it "works", the test results aren't matching, mostly due to rounding differences - about one digit. I need to double-check some of the steps in the blur function that apparently aren't working as intended. Corners work, but borders and the inside don't. Am I supposed to create an auxiliary array, average all original pixels and then change the picture?
+
+**Link to work:**  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+
+---------------------------------------------------------
+### Day 28: March 25, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
