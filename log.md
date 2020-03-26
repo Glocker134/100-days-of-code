@@ -360,6 +360,20 @@ Although it "works", the test results aren't matching, mostly due to rounding di
 ### Day 28: March 25, 2020.
 
 **Today's Progress:**  
+Finished the filter_less assignment for CS50.  
+Started working on the recovery assignment.
+
+**Thoughts:**  
+As expected, I was supposed to copy the image's pixels to an auxiliary array and use the non-edited values for the averages. And after fixing some rounding issues, the tests passed with no issues. 
+As for the first impressions with the recovery assignment, I'm going to have to read a bit about file reads and writes, especially size and how to set the read/write buffer.
+
+**Link to work:**  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+
+---------------------------------------------------------
+### Day 29: March 26, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
