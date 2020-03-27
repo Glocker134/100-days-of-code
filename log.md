@@ -374,6 +374,18 @@ As for the first impressions with the recovery assignment, I'm going to have to 
 ### Day 29: March 26, 2020.
 
 **Today's Progress:**  
+Continued working on the recovery assignment.  
+
+**Thoughts:**  
+Quite the slow day for progress. I'm having a "few" issues with file reading that I need to address ASAP. I'm slowly starting to understand how the fread arguments work, but I still need to get an idea of how the buffer is handled. Gonna have to create a new sandbox file and start tinkering around to get the idea.
+
+**Link to work:**  
+None for today.  
+
+---------------------------------------------------------
+### Day 30: March 27, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
