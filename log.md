@@ -386,6 +386,18 @@ None for today.
 ### Day 30: March 27, 2020.
 
 **Today's Progress:**  
+Continued working on the recovery assignment.  
+
+**Thoughts:**  
+The program is now recovering some data, although not completely. It seems to be recovering the first 512 bytes of the image, and then skipping to the next, but it's also stopping at image 23 out of 50. I think I know what I need to do with the file reading so it can fully write to the file before closing it.  
+
+**Link to work:**  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+
+---------------------------------------------------------
+### Day 31: March 28, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
