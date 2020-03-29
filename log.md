@@ -398,6 +398,19 @@ The program is now recovering some data, although not completely. It seems to be
 ### Day 31: March 28, 2020.
 
 **Today's Progress:**  
+Finished the recover assignment.  
+Started working on the filter-more assignment.  
+
+**Thoughts:**  
+After sitting down and writing on paper the pseudocode, and the help of a previous walkthrough video for the exercise, I managed to fix the errors in the code and managed to get all 50 pictures in the card file. Most of filter-more is already done thanks to filter-less (that's grayscale, reflection, and blur), and the only function I need to write is edge detection.
+
+**Link to work:**  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+
+---------------------------------------------------------
+### Day 32: March 29, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
