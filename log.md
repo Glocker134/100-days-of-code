@@ -411,6 +411,18 @@ After sitting down and writing on paper the pseudocode, and the help of a previo
 ### Day 32: March 29, 2020.
 
 **Today's Progress:**  
+Finished the filter_more assignment.
+
+**Thoughts:**  
+And again, I NEED to pay attention to the variables I'm typing. Debugging could have taken WAY less time if I had noticed the wrong variable pretty much at the end of the code block. Regardless, the edge detection function works wonders and got full score on the assignment. I already set up the IDE for the pset5 exercise, so tomorrow will be video, then straight to the assignment.
+
+**Link to work:**  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+
+---------------------------------------------------------
+### Day 33: March 30, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
