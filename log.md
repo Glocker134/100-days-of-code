@@ -423,6 +423,18 @@ And again, I NEED to pay attention to the variables I'm typing. Debugging could 
 ### Day 33: March 30, 2020.
 
 **Today's Progress:**  
+Watched the lesson 5 lecture for CS50.  
+
+**Thoughts:**  
+I need to rewatch the last half of the lesson to finish understanding lists and trees. Not a lot of progress code-wise, but I should be able to start working on the speller asignment tomorrow.
+
+**Link to work:**  
+[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_5)  
+
+---------------------------------------------------------
+### Day 34: March 31, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
