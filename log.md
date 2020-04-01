@@ -435,6 +435,19 @@ I need to rewatch the last half of the lesson to finish understanding lists and 
 ### Day 34: March 31, 2020.
 
 **Today's Progress:**  
+Finished watching the lesson 5 lecture.  
+Started research on the speller assignment
+
+**Thoughts:**  
+This is going to be a toughie. There is a lot of reading involved, especially about things I didn't learn back when I took my old C class - hash tables and tries, which I'm going to need (at least hash tables). I somewhat understand the basics of a hash table, but I still don't understand the hashing process and how the keys are handled, let alone how many you might need to sort the data. And since this assignment is all about efficiency (my old enemy), I need to think about optimizing as much as possible, from memory allocation and freeing memory, to the proper way to store the dictionary in memory so I can search for a term as quickly as possible. I've already set up a Trello board with ideas and some things I should research in the morning.
+
+**Link to work:**  
+None for today.  
+
+---------------------------------------------------------
+### Day 35: April 1st, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
