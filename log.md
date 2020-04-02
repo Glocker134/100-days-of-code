@@ -448,6 +448,19 @@ None for today.
 ### Day 35: April 1st, 2020.
 
 **Today's Progress:**  
+Continued researching for the speller assignment.  
+Added the hash function to the assignment.  
+
+**Thoughts:**  
+My original concern since yesterday was about how to hash the data, but after watching the other pending videos for the class, it was recommended to NOT create a hash function, but to find an existing one on the internet (since hashing functions are considered to be "an art, rather than a science"). After some quick searching I found djb2, which is considered a very decent and efficient string hashing function. I still need to sit down and check how many "buckets" I'm going to need for the final table, so I can start working on loading the dictionary into memory and then spell-checking.
+
+**Link to work:**  
+[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_5)  
+
+---------------------------------------------------------
+### Day 36: April 2nd, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
