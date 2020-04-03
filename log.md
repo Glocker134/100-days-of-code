@@ -461,6 +461,18 @@ My original concern since yesterday was about how to hash the data, but after wa
 ### Day 36: April 2nd, 2020.
 
 **Today's Progress:**  
+Continued working on the speller assignment.
+
+**Thoughts:**  
+Another day of research, but finally managed to set up the amount of "buckets" that I'll need (though still having second thoughts on the number compared to memory used). Also, managed to complete the check function. The thing is, I have two different check functions detailed: one that checks for all the items that share the same hash index (expecting collisions just in case), and one that simply checks if the hash index has a value (expecting no collisions because of the amount of buckets). I'll have to double-check which one is the right one for the task.
+
+**Link to work:**  
+[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_5)  
+
+---------------------------------------------------------
+### Day 37: April 3rd, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
