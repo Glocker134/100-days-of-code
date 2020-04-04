@@ -473,6 +473,18 @@ Another day of research, but finally managed to set up the amount of "buckets" t
 ### Day 37: April 3rd, 2020.
 
 **Today's Progress:**  
+Finished the speller assignment for CS50.  
+
+**Thoughts:**  
+I have to admit, I am surprised it worked on the first try, ignoring compiling errors. And according to the Big Board leaderboards, my code is currently on 15th place, with a lot of room to improve (over a second). I might consider improving the runtine in the future, but for now I'm calling this a win. Guess tomorrow will be Python day.  
+
+**Link to work:**  
+[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_5)  
+
+---------------------------------------------------------
+### Day 38: April 4, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
