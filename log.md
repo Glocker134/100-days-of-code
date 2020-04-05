@@ -485,6 +485,19 @@ I have to admit, I am surprised it worked on the first try, ignoring compiling e
 ### Day 38: April 4, 2020.
 
 **Today's Progress:**  
+Watched the lesson 6 video for CS50.  
+Finished the hello, mario-less, and mario-more assignments.
+
+**Thoughts:**  
+Python is actually a language I enjoy using compared to C, despite the differences. I actually started a webcourse years ago, but didn't finish it. Since most of the assignments are just "translations" of their counterparts in C, it shouldn't take too long to get to the "real" assignment for the week. 
+
+**Link to work:**  
+[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
+
+---------------------------------------------------------
+### Day 39: April 5, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
