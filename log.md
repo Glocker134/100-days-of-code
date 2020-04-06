@@ -498,6 +498,18 @@ Python is actually a language I enjoy using compared to C, despite the differenc
 ### Day 39: April 5, 2020.
 
 **Today's Progress:**  
+Finished cash and credit assignments.  
+
+**Thoughts:**  
+Despite having experience with Python, today was a confusing day. Perhaps it's the "sudden" change from C to Python and trying to remember methods and whatnot, but doing a literal translation from C to Python was painful. Still need to finish readability and DNA, and I think I'll also translate my old C code to Python for practice purposes.  
+
+**Link to work:**  
+[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
+
+---------------------------------------------------------
+### Day 40: April 6, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
