@@ -510,6 +510,19 @@ Despite having experience with Python, today was a confusing day. Perhaps it's t
 ### Day 40: April 6, 2020.
 
 **Today's Progress:**  
+Finished the readability assignment.  
+Started working on the dna assignment.  
+
+**Thoughts:**  
+Perhaps I just needed a quick break to let the ideas sink in, and for the old Python memories to come back, but today was a blast. Translating readability was a breeze, and dna is forcing me to revisit file handling and learning about the csv module. The general idea is already set, but I still need to write a couple of extra functions.
+
+**Link to work:**  
+[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
+
+---------------------------------------------------------
+### Day 40: April 6, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
