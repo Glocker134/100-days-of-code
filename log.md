@@ -520,7 +520,20 @@ Perhaps I just needed a quick break to let the ideas sink in, and for the old Py
 [CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
 
 ---------------------------------------------------------
-### Day 40: April 6, 2020.
+### Day 41: April 7, 2020.
+
+**Today's Progress:**  
+Finished the DNA assignment.  
+Watched the lesson 7 video for CS50.
+
+**Thoughts:**  
+The logic for the DNA program was pretty much solid, only a couple of TypeErrors due to a misplaced variable, but the code ran flawlessly on first try. Lesson 7 is all about databases, something I consider brand new. I might have to watch the video again, or start toying around with SQLite3 and DB Browser just to get familiarized with the language.
+
+**Link to work:**  
+[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
+
+---------------------------------------------------------
+### Day 42: April 8, 2020.
 
 **Today's Progress:**  
 
