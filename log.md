@@ -536,6 +536,19 @@ The logic for the DNA program was pretty much solid, only a couple of TypeErrors
 ### Day 42: April 8, 2020.
 
 **Today's Progress:**  
+Finished all 13 SQL queries for the movies assignment.  
+Prepared the houses assignment stuff.  
+
+**Thoughts:**  
+At first glance, I thought the queries were going to be more difficult than what they actually were. Aside a few instances of trial and error, I managed to complete all 13 queries in a few hours. I'm starting to get the hang of the concept and how to assemble the queries in an organized (almost most likely not the most efficient) way, but it gets the job done. The houses assignment will take care of mixing both Python and sqlite3.
+
+**Link to work:**  
+[CS50 lesson 7 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_7)  
+
+---------------------------------------------------------
+### Day 43: April 9, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
