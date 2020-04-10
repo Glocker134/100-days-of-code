@@ -549,7 +549,19 @@ At first glance, I thought the queries were going to be more difficult than what
 ### Day 43: April 9, 2020.
 
 **Today's Progress:**  
+Finished the houses assignment.  
 
 **Thoughts:**  
+This one went surprisingly quick. Again, knowing the logic on how to write SQL queries, the rest was just knowing how the data is received in Python and working from there. Guess I'll start the final "lesson" tomorrow and prepare for the web track. Also, I should start thinking about what to do for the final project.  
 
 **Link to work:**  
+[CS50 lesson 7 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_7)  
+
+---------------------------------------------------------
+### Day 44: April 10, 2020.
+
+**Today's Progress:**  
+
+**Thoughts:** 
+
+**Link to work:** 
