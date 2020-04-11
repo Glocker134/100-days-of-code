@@ -24,7 +24,7 @@ Still trying to figure out what things can be done with Scratch, especially in a
 
 **Link to work:**  
 [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)  
-[CS50 Lesson 0 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_0)  
+[CS50 Lesson 0 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset0)  
 
 ---------------------------------------------------------
 ### Day 2: February 28, 2020.
@@ -38,7 +38,7 @@ The assignment is pretty much done based on the requirements, but I might refine
 
 **Link to work:**  
 [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)  
-[CS50 Lesson 0 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_0)  
+[CS50 Lesson 0 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset0)  
 
 ---------------------------------------------------------
 ### Day 3: February 29, 2020.
@@ -52,7 +52,7 @@ Today was a bit of a slow day, since the main focus was to finish the assignment
 
 **Link to work:**  
 [Introduction to Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css)  
-[CS50 Lesson 0 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_0)  
+[CS50 Lesson 0 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset0)  
 
 ---------------------------------------------------------
 ### Day 4: March 1st, 2020.
@@ -64,7 +64,7 @@ Completed 4 out 5 assignments for the lesson 1 of the CS50 course.
 It's been a while since I used C. Still remember a few things, and gotta remember about the pointers when the time is right. Also, I need to remember to use style50 after completing each assignment and correct the code.  
 
 **Link to work:**  
-[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_1)  
+[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset1)  
 
 ---------------------------------------------------------
 ### Day 5: March 2nd, 2020.
@@ -77,7 +77,7 @@ Made progress on the "Applied Visual Design" block on FreeCodeCamp.
 Not a lot of progress was made today due to sidetracking with terminal experimentation.
 
 **Link to work:**  
-[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_1)  
+[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset1)  
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)  
 
 ---------------------------------------------------------
@@ -92,7 +92,7 @@ Started reading [Eloquent JavaScript](https://eloquentjavascript.net/)- just the
 I need to pay attention when reading code during debugging/troubleshooting. A very easy to fix issue took me a good portion of the day. Granted, clang's output wasn't extremely helpful, but I still need to pay attention and take my time while reading.  
 
 **Link to work:**  
-[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_1)  
+[CS50 Lesson 1 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset1)  
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)
 
 ---------------------------------------------------------
@@ -117,7 +117,7 @@ Started working on the lesson 2 assignments for CS50.
 The readability project is almost done. It could have been finished earlier, but the IDE site was throwing error 500 right after granting permission and log in. It still needs a bit of finetuning on how decimals are rounded and organizing stuff into extra functions, rather than pack everything inside the main function. Overall, it gives a correct readability grade for the rest of the tests.  
 
 **Link to work:**  
-[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset2)  
 
 ---------------------------------------------------------
 ### Day 9: March 6, 2020.
@@ -129,7 +129,7 @@ Finished the readability assignment for CS50.
 Despite my solution being correct, I'm pretty sure that my implementation was not the "right" one in terms of code maintanability - Lack of extra functions, everything is inside the main function. I will have to return to this assignment in the future and adjust it.   
 
 **Link to work:**  
-[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset2)  
 
 ---------------------------------------------------------
 ### Day 10: March 7, 2020.
@@ -141,7 +141,7 @@ Started working on the Caesar cipher assignment for CS50.
 First time writing a program that requires a command line argument. Still need to work on validation for said argument, but at least it checks if an argument has been passed, otherwise it shows the correct/expected syntax.
 
 **Link to work:**  
-[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset2)  
 
 ---------------------------------------------------------
 ### Day 11: March 8, 2020.
@@ -153,7 +153,7 @@ Finished the Caesar cipher assignment for CS50.
 Interestingly enough, I barely used the cs50 header due to how C handles strings, especially when not using pointers. Tomorrow's focus will be the substitution problem with a bit of FreeCodeCamp.  
 
 **Link to work:**  
-[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset2)  
 
 ---------------------------------------------------------
 ### Day 12: March 9, 2020.
@@ -166,7 +166,7 @@ Made some progress on the "Applied Visual Design" block on FreeCodeCamp.
 This problem was WAY easier to solve compared to the Caesar one due to the more rigid requirements. Granted, a few things can be copied/recycled from the Caesar code, but the core functionality was easier to plan out.  
 
 **Link to work:**  
-[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_2)  
+[CS50 lesson 2 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset2)  
 [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/)  
 
 ---------------------------------------------------------
@@ -196,7 +196,7 @@ First time I've used structs in C. It kinda reminds me of lists, but a bit more 
 Also, I've read a few things about the FizzBuzz algorithm being a "common" question in coding interviews. I have to say, the "non-ES6 heavy" answer isn't that bad - 5 lines of code by eliminating unnecessary curly braces.
 
 **Link to work:**  
-[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset3)  
 [Eloquent JavaScript exercise repo link](https://github.com/Glocker134/eloquentjs_exercises)  
 
 ---------------------------------------------------------
@@ -209,7 +209,7 @@ Finished the runoff assignment for CS50.
 Not a lot of progress was made today. The walkthrough video for the assignment worked wonders explaning what each function was meant to do. I will probably have to use the walkthrough video for the tideman assignment tomorrow.  
 
 **Link to work:**  
-[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset3)  
 
 ---------------------------------------------------------
 ### Day 16: March 13, 2020.
@@ -222,7 +222,7 @@ This one is turning out to be a bit of a tricky one, but I THINK I should be abl
 The final project is going to be interesting.  
 
 **Link to work:**  
-[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset3)  
 
 ---------------------------------------------------------
 ### Day 17: March 14, 2020.
@@ -258,7 +258,7 @@ Made some progress on the Tideman assignment. Finished the base version of the m
 The basic version of merge sort is now ready (after dealing with a couple of segfaults), Tomorrow I can start working on adjusting it to fit in the Tideman code.
 
 **Link to work:**  
-[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset3)  
 
 ---------------------------------------------------------
 ### Day 20: March 17, 2020.
@@ -270,7 +270,7 @@ Finished the merge sort function for the Tideman assignment.
 Adapting the basic merge sort to the Tideman code was a bit of a mouthful. Clang didn't show any error while compiling, so I THINK it's good to go. I started planning how to do the lock_pairs function, but I need to read a bit more about how locking a pair should take priority.  
 
 **Link to work:**  
-[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset3)  
 
 ---------------------------------------------------------
 ### Day 21: March 18, 2020.
@@ -294,7 +294,7 @@ Made some progress on the Tideman assignment.
 Turns out the lock_pairs function was a bit easier to implement than what I originally thought. Granted, I've yet to fully test the whole program, but tomorrow should be focused on debugging once I'm done with the last function.  
 
 **Link to work:**  
-[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset3)  
 
 ---------------------------------------------------------
 ### Day 23: March 20, 2020.
@@ -306,7 +306,7 @@ Finished the Tideman aassignment for CS50.
 Debugging didn't take too long, barely 30 minutes, though I still have two "errors" according to the tests, but I'm quite happy with a 92/100. I can return to this later and fix it, but for now, I can now start week 4 and get back on track (it's been 10 days trying to complete all of week 3).  
 
 **Link to work:**  
-[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_3)  
+[CS50 lesson 3 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset3)  
 
 ---------------------------------------------------------
 ### Day 24: March 21, 2020.
@@ -318,7 +318,7 @@ Watched CS50 lesson 4 and prepared the IDE session for the first assignment.
 Week 4 video was all about pointers, which I've worked with before, but remember nearly nothing about them. Additionally, future assignments can't use the cs50 header file, so the "training wheels" are officially off. As for this week's assignment, there seems to be almost no difference between filter_less and filter_more, other than one extra filter on filter_more. In the meantime, I'll focus on filter_less, then give filter_more a shot.
 
 **Link to work:**  
-[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset4)  
 
 ---------------------------------------------------------
 ### Day 25: March 22, 2020.
@@ -342,7 +342,7 @@ Started working on the filter-less assignment for CS50.
 I tried to solve the other two Chapter 4 exercises, but I was drawing a blank on JS lists, so I decided to start working on the week 4 assignments. Turns out filter-less wasn't as problematic as I thought it'd be. I only need to implement the blur function and I'm done. I could probably read a bit about the edge detection function required for filter-more, since it's the only unique function between both versions. Also, had to fix the file in the repo since I downloaded the wrong one from the IDE.  
 
 **Link to work:**  
-[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset4)  
 
 ---------------------------------------------------------
 ### Day 27: March 24, 2020.
@@ -354,7 +354,7 @@ Finished the blur function for the filter-less assignment.
 Although it "works", the test results aren't matching, mostly due to rounding differences - about one digit. I need to double-check some of the steps in the blur function that apparently aren't working as intended. Corners work, but borders and the inside don't. Am I supposed to create an auxiliary array, average all original pixels and then change the picture?
 
 **Link to work:**  
-[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset4)  
 
 ---------------------------------------------------------
 ### Day 28: March 25, 2020.
@@ -368,7 +368,7 @@ As expected, I was supposed to copy the image's pixels to an auxiliary array and
 As for the first impressions with the recovery assignment, I'm going to have to read a bit about file reads and writes, especially size and how to set the read/write buffer.
 
 **Link to work:**  
-[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset4)  
 
 ---------------------------------------------------------
 ### Day 29: March 26, 2020.
@@ -392,7 +392,7 @@ Continued working on the recovery assignment.
 The program is now recovering some data, although not completely. It seems to be recovering the first 512 bytes of the image, and then skipping to the next, but it's also stopping at image 23 out of 50. I think I know what I need to do with the file reading so it can fully write to the file before closing it.  
 
 **Link to work:**  
-[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset4)  
 
 ---------------------------------------------------------
 ### Day 31: March 28, 2020.
@@ -405,7 +405,7 @@ Started working on the filter-more assignment.
 After sitting down and writing on paper the pseudocode, and the help of a previous walkthrough video for the exercise, I managed to fix the errors in the code and managed to get all 50 pictures in the card file. Most of filter-more is already done thanks to filter-less (that's grayscale, reflection, and blur), and the only function I need to write is edge detection.
 
 **Link to work:**  
-[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset4)  
 
 ---------------------------------------------------------
 ### Day 32: March 29, 2020.
@@ -417,7 +417,7 @@ Finished the filter_more assignment.
 And again, I NEED to pay attention to the variables I'm typing. Debugging could have taken WAY less time if I had noticed the wrong variable pretty much at the end of the code block. Regardless, the edge detection function works wonders and got full score on the assignment. I already set up the IDE for the pset5 exercise, so tomorrow will be video, then straight to the assignment.
 
 **Link to work:**  
-[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_4)  
+[CS50 lesson 4 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset4)  
 
 ---------------------------------------------------------
 ### Day 33: March 30, 2020.
@@ -429,7 +429,7 @@ Watched the lesson 5 lecture for CS50.
 I need to rewatch the last half of the lesson to finish understanding lists and trees. Not a lot of progress code-wise, but I should be able to start working on the speller asignment tomorrow.
 
 **Link to work:**  
-[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_5)  
+[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset5)  
 
 ---------------------------------------------------------
 ### Day 34: March 31, 2020.
@@ -455,7 +455,7 @@ Added the hash function to the assignment.
 My original concern since yesterday was about how to hash the data, but after watching the other pending videos for the class, it was recommended to NOT create a hash function, but to find an existing one on the internet (since hashing functions are considered to be "an art, rather than a science"). After some quick searching I found djb2, which is considered a very decent and efficient string hashing function. I still need to sit down and check how many "buckets" I'm going to need for the final table, so I can start working on loading the dictionary into memory and then spell-checking.
 
 **Link to work:**  
-[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_5)  
+[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset5)  
 
 ---------------------------------------------------------
 ### Day 36: April 2nd, 2020.
@@ -467,7 +467,7 @@ Continued working on the speller assignment.
 Another day of research, but finally managed to set up the amount of "buckets" that I'll need (though still having second thoughts on the number compared to memory used). Also, managed to complete the check function. The thing is, I have two different check functions detailed: one that checks for all the items that share the same hash index (expecting collisions just in case), and one that simply checks if the hash index has a value (expecting no collisions because of the amount of buckets). I'll have to double-check which one is the right one for the task.
 
 **Link to work:**  
-[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_5)  
+[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset5)  
 
 ---------------------------------------------------------
 ### Day 37: April 3rd, 2020.
@@ -479,7 +479,7 @@ Finished the speller assignment for CS50.
 I have to admit, I am surprised it worked on the first try, ignoring compiling errors. And according to the Big Board leaderboards, my code is currently on 15th place, with a lot of room to improve (over a second). I might consider improving the runtine in the future, but for now I'm calling this a win. Guess tomorrow will be Python day.  
 
 **Link to work:**  
-[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_5)  
+[CS50 lesson 5 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset5)  
 
 ---------------------------------------------------------
 ### Day 38: April 4, 2020.
@@ -492,7 +492,7 @@ Finished the hello, mario-less, and mario-more assignments.
 Python is actually a language I enjoy using compared to C, despite the differences. I actually started a webcourse years ago, but didn't finish it. Since most of the assignments are just "translations" of their counterparts in C, it shouldn't take too long to get to the "real" assignment for the week. 
 
 **Link to work:**  
-[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
+[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset6)  
 
 ---------------------------------------------------------
 ### Day 39: April 5, 2020.
@@ -504,7 +504,7 @@ Finished cash and credit assignments.
 Despite having experience with Python, today was a confusing day. Perhaps it's the "sudden" change from C to Python and trying to remember methods and whatnot, but doing a literal translation from C to Python was painful. Still need to finish readability and DNA, and I think I'll also translate my old C code to Python for practice purposes.  
 
 **Link to work:**  
-[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
+[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset6)  
 
 ---------------------------------------------------------
 ### Day 40: April 6, 2020.
@@ -517,7 +517,7 @@ Started working on the dna assignment.
 Perhaps I just needed a quick break to let the ideas sink in, and for the old Python memories to come back, but today was a blast. Translating readability was a breeze, and dna is forcing me to revisit file handling and learning about the csv module. The general idea is already set, but I still need to write a couple of extra functions.
 
 **Link to work:**  
-[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
+[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset6)  
 
 ---------------------------------------------------------
 ### Day 41: April 7, 2020.
@@ -530,7 +530,7 @@ Watched the lesson 7 video for CS50.
 The logic for the DNA program was pretty much solid, only a couple of TypeErrors due to a misplaced variable, but the code ran flawlessly on first try. Lesson 7 is all about databases, something I consider brand new. I might have to watch the video again, or start toying around with SQLite3 and DB Browser just to get familiarized with the language.
 
 **Link to work:**  
-[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_6)  
+[CS50 lesson 6 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset6)  
 
 ---------------------------------------------------------
 ### Day 42: April 8, 2020.
@@ -543,7 +543,7 @@ Prepared the houses assignment stuff.
 At first glance, I thought the queries were going to be more difficult than what they actually were. Aside a few instances of trial and error, I managed to complete all 13 queries in a few hours. I'm starting to get the hang of the concept and how to assemble the queries in an organized (almost most likely not the most efficient) way, but it gets the job done. The houses assignment will take care of mixing both Python and sqlite3.
 
 **Link to work:**  
-[CS50 lesson 7 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_7)  
+[CS50 lesson 7 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset7)  
 
 ---------------------------------------------------------
 ### Day 43: April 9, 2020.
@@ -555,13 +555,28 @@ Finished the houses assignment.
 This one went surprisingly quick. Again, knowing the logic on how to write SQL queries, the rest was just knowing how the data is received in Python and working from there. Guess I'll start the final "lesson" tomorrow and prepare for the web track. Also, I should start thinking about what to do for the final project.  
 
 **Link to work:**  
-[CS50 lesson 7 repo link](https://github.com/Glocker134/CS50-projects/tree/master/lesson_7)  
+[CS50 lesson 7 repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset7)  
 
 ---------------------------------------------------------
 ### Day 44: April 10, 2020.
 
 **Today's Progress:**  
+Watched the final lesson video for CS50.  
+Prepared the IDE for the web track projects.  
 
-**Thoughts:** 
+**Thoughts:**  
+Today could be considered as a day off in "celebration". The final video was more of a recap of the last 8 lessons and an introduction to the different tracks available in the course. I've been learning web in the past (before putting all my focus on CS50), so I'll stick to the web track.  
+I also enrolled into the "next" part of the course, which continues on the web track by adding a bit more of what's already explained during the tracks - HTML, CSS, JavaScript, Python, Flask, SQL, and some projects.  
+As a side-note, I did a small change to the assignment folders with a rename (and a visit to the git documentation to avoid deleting my commit history on all my files) that fits the problem sets (psetx instead of lesson_x).
 
 **Link to work:** 
+None for today.  
+
+---------------------------------------------------------
+### Day 45: April 11, 2020.  
+
+**Today's Progress:**  
+
+**Thoughts:**  
+
+**Link to work:**  
