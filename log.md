@@ -589,6 +589,18 @@ Even though I have some "basic" HTML knowledge, I want to approach these upcomin
 ### Day 46: April 12, 2020.  
 
 **Today's Progress:**  
+Watched some of the videos for the web track.
+
+**Thoughts:**  
+I was hoping for a bit more of explanation on CSS, but since the project requires the use of Bootstrap, guess I'll have to sit down and tinker around with a sandbox file, using Bootstrap classes. It would have been nice if the video introduced the concept of the box model, rather than going straight to padding. As for the JavaScript video, apart from the basics of variable/function declaration, most of the concepts explained in the video were things I've briefly used before, like DOM manipulation - which I've used in the past for an interactive Rock-Paper-Scissors game against the AI and a sort of etch-a-sketch, and event handlers/listeners.
+
+**Link to work:**  
+None for today.
+
+---------------------------------------------------------
+### Day 47: April 13, 2020.  
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
