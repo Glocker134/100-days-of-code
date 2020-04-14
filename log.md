@@ -601,6 +601,18 @@ None for today.
 ### Day 47: April 13, 2020.  
 
 **Today's Progress:**  
+Continued working on the homepage assignment.  
+
+**Thoughts:**  
+Since all 4 pages must be accessible from within each other, the easiest way is to implement a navigation bar on top. Mission done with a bit of help from the w3schools' documentation on building a simple navbar. I still don't know what to put inside most of the pages (apart from changing the hobbies page into a contact page), though I should have in consideration that it has to be "responsive" - hence why Bootstrap is required. Apart from that, design is most likely what's going to take me the longest to figure out.  
+
+**Link to work:**  
+[CS50 Web track - homepage repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/homepage)  
+
+---------------------------------------------------------
+### Day 48: April 14, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
