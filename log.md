@@ -613,6 +613,18 @@ Since all 4 pages must be accessible from within each other, the easiest way is 
 ### Day 48: April 14, 2020.
 
 **Today's Progress:**  
+Made some progress on the index page.  
+
+**Thoughts:**  
+I kinda want to use a Material theme on this assignment, and got an idea for the index page that looks good and works to my needs. This basic mockup is working and might end up being the final product. Still have to work on the javascript and the other 3 pages.  
+
+**Link to work:**  
+[CS50 Web track - homepage repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/homepage)  
+
+---------------------------------------------------------
+### Day 49: April 15, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
