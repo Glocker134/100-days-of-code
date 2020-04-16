@@ -625,6 +625,18 @@ I kinda want to use a Material theme on this assignment, and got an idea for the
 ### Day 49: April 15, 2020.
 
 **Today's Progress:**  
+Created a few paper mockups for the homepage assignment.  
+
+**Thoughts:**  
+Not a lot of progress today, at least in code form. Most of the time was spent thinking about layout and trying to pick a better color theme for the page. Design has always been my flaw while working with HTML and CSS. I also had an idea to make the site lean more into a "gag" or joke while still offering the info related to the page (info, portfolio, contact form). As for the contact form, it should help me go past the 10 required tags (I'm already at 9 tags on index), and since there is no PHP or a way to "locally" store the contact data, might as well play around with a few javascript alerts and events with the received data (maybe more jokes). Tomorrow will be the halfway mark of the challenge, better do some serious work there.
+
+**Link to work:**  
+None for today.
+
+---------------------------------------------------------
+### Day 50: April 16, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
