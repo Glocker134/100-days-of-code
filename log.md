@@ -637,6 +637,19 @@ None for today.
 ### Day 50: April 16, 2020.
 
 **Today's Progress:**  
+Started working on Conway's Game of Life in Python.  
+
+**Thoughts:**  
+Still debating if I should consider this as part of my final project for CS50, or maybe add it to my portfolio as a random project. In any case, it's currently stored in the final folder of my CS50 repo, if I decide to use another thing for a final project, I'll move it to its own repo. Anyways, the basics are there: a terminal version, step-by-step, of Conway's Game of Life. My idea is to use a graphics library to show a more "interactive" version of the game, rather than a bunch of 1's and 0's in the terminal window.  
+Also, today's the halfway mark of the challenge. 50 more days to go!  
+
+**Link to work:**  
+[CS50 final repo link](https://github.com/Glocker134/CS50-projects/tree/master/final)
+
+---------------------------------------------------------
+### Day 51: April 17, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
