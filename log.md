@@ -650,6 +650,18 @@ Also, today's the halfway mark of the challenge. 50 more days to go!
 ### Day 51: April 17, 2020.
 
 **Today's Progress:**  
+Started reading the pygame documentation to use it with the Game of Life project.  
+
+**Thoughts:**  
+Bit of a slow day and not a lot of progress. Managed to make a sample project to generate a screen with something inside, but now I need to search for info on grids and whatnot.  
+
+**Link to work:**  
+None for today.
+
+---------------------------------------------------------
+### Day 51: April 17, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
