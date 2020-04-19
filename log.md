@@ -659,10 +659,22 @@ Bit of a slow day and not a lot of progress. Managed to make a sample project to
 None for today.
 
 ---------------------------------------------------------
-### Day 51: April 17, 2020.
+### Day 52: April 18, 2020.
+
+**Today's Progress:**  
+Continued working on learning pygame.  
+
+**Thoughts:**  
+After checking a couple of code snippets on stackoverflow, I managed to draw a grid on screen, but the main issue is that the game window lags way too much. The sample project (once the window size was adjusted) ran okay and closed normally, but this grid is causing the window to lag to the point it won't close unless I kill the process via task manager. Gonna have to read more about the drawing commands and whatnot. Also, gotta find a way to translate the grid size into the drawing area.  
+
+**Link to work:**  
+[Pygame practice repo](https://github.com/Glocker134/pygame-practice)
+
+---------------------------------------------------------
+### Day 53: April 19, 2020.
 
 **Today's Progress:**  
 
-**Thoughts:**  
+**Thoughts:**
 
-**Link to work:**  
+**Link to work:**
