@@ -674,6 +674,18 @@ After checking a couple of code snippets on stackoverflow, I managed to draw a g
 ### Day 53: April 19, 2020.
 
 **Today's Progress:**  
+Made progress on the grid for the game of life project.  
+
+**Thoughts:**  
+Managed to display the grid and its contents - white canvas, white cells for a 0, black cells for a 1. Currently, the size of the cell is determined by the highest value between rows and columns and the window's width (practice runs were at 800x600 resolution, with a 9x12 grid). The issue is that the whole window is not being used, there are empty areas near the right and bottom borders. I need to think of a way that makes the window size a bit more dynamic, but at the same time using the entire display area. Another idea for the project is to move the entire thing outside the command line, so the initial setup should be done via the pygame window, which means I'd have to work on a UI (pygame-gui seems to be the right candidate). Next step is to update the game via keyboard input.  
+
+**Link to work:**  
+[Pygame practice repo](https://github.com/Glocker134/pygame-practice)
+
+---------------------------------------------------------
+### Day 54: April 20, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**
 
