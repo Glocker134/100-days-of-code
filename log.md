@@ -686,6 +686,18 @@ Managed to display the grid and its contents - white canvas, white cells for a 0
 ### Day 54: April 20, 2020.
 
 **Today's Progress:**  
+Made progress on the grid and screen updates.
+
+**Thoughts:**  
+I decided to make a new file and group everything into their respective functions and decided to work on key press feedback. Apparently, any key but enter, space, or the modifiers work okay. The game window is updating when I press a specific key (w), but I think I need to double-check the game logic because it's ending with either a small colony or no cells at all. Overall, this was a good session. 
+
+**Link to work:**  
+[Pygame practice repo](https://github.com/Glocker134/pygame-practice)
+
+---------------------------------------------------------
+### Day 55: April 21, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**
 
