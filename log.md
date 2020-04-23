@@ -695,7 +695,19 @@ I decided to make a new file and group everything into their respective function
 [Pygame practice repo](https://github.com/Glocker134/pygame-practice)
 
 ---------------------------------------------------------
-### Day 55: April 21, 2020.
+### Day 55: April 22, 2020.
+
+**Today's Progress:**  
+Fixed the game logic and added an automatic screen update.  
+
+**Thoughts:**  
+Had to take the previous day off due to health (still feeling under the weather), but today I managed to do what I couldn't do yesterday. Also, noticed that the game logic had a couple of flaws on my part - dead cells surrounded by 3 live cells were not changing to live cells, which caused the general flow of the game to either go into full extinction or get stuck with a small group, and I had the "survival" condition wrong, by forcing the cell to die if it was surrouded by 3 or more live cells, where the correct logic is for the cell to survive if it's surrounded by 2 or 3 live cells. Both issues were fixed and now the game is running as intended. Now I need to read through the pygame_gui documentation and see how I can modify the code to include the UI and means to interact with the game.  
+
+**Link to work:**  
+[Pygame practice repo](https://github.com/Glocker134/pygame-practice)
+
+---------------------------------------------------------
+### Day 56: April 23, 2020.
 
 **Today's Progress:**  
 
