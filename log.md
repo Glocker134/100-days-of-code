@@ -710,7 +710,19 @@ Had to take the previous day off due to health (still feeling under the weather)
 ### Day 56: April 23, 2020.
 
 **Today's Progress:**  
+Started reading the pygame_gui documentation.  
 
-**Thoughts:**
+**Thoughts:**  
+Early through the documentation I realized I haven't planned out the UI I want to use for the screen. Also, I was thinking about including a way to select the window's aspect ratio - between SD (800x600) and HD (1280x720). This might be a bigger challenge compared to the initial steps to draw the game on screen. Still, I copied the example code from the quick start page, just to see the "UI" in action (although it was just a button that typed "Hello world" to the console).  
 
-**Link to work:**
+**Link to work:**  
+[Pygame practice repo](https://github.com/Glocker134/pygame-practice)  
+
+---------------------------------------------------------
+### Day 57: April 24, 2020.
+
+**Today's Progress:**  
+
+**Thoughts:**  
+
+**Link to work:**  
