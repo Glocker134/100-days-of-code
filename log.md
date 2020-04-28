@@ -719,7 +719,19 @@ Early through the documentation I realized I haven't planned out the UI I want t
 [Pygame practice repo](https://github.com/Glocker134/pygame-practice)  
 
 ---------------------------------------------------------
-### Day 57: April 24, 2020.
+### Day 57: April 27, 2020.
+
+**Today's Progress:**  
+Worked on small projects to get back on track.  
+
+**Thoughts:**  
+I had to take a few days off to clear my brain for a moment, and the weekend was a good excuse for that. In order to get the mindset back on, I started working on some simple scripts (and even improving on some of my old ones), while also getting some ideas for future implementation. Starting tomorrow I'll return to the CS50 tracks assignments and then try to improve the game of life code whenever I can.  
+
+**Link to work:**  
+None for today.  
+
+---------------------------------------------------------
+### Day 58: April 28, 2020.
 
 **Today's Progress:**  
 
