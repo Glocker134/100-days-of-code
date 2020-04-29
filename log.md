@@ -734,6 +734,18 @@ None for today.
 ### Day 58: April 28, 2020.
 
 **Today's Progress:**  
+Added a basic contact form to the homepage assignment.  
+
+**Thoughts:**  
+Some ideas have come to mind for the page's design, mostly based on Bootstrap. Still need to add some styling to the form (preferably Material Design themed) and start working on the portfolio carousel.  
+
+**Link to work:**  
+[CS50 Web track - homepage repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/homepage)  
+
+---------------------------------------------------------
+### Day 59: April 29, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
