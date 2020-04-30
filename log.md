@@ -746,6 +746,18 @@ Some ideas have come to mind for the page's design, mostly based on Bootstrap. S
 ### Day 59: April 29, 2020.
 
 **Today's Progress:**  
+Continued working on the homepage assignment.  
+
+**Thoughts:**  
+Did some minor changes to all pages and tried to fix the footer. The contact page is somewhat styled, but it could still use a bit of extra tweaks on the textboxes. Still need to read about the bootstrap footer navbar. The carousel skeleton is in place, though it's missing a screenshot of each project. I think this assignment will be done in just a couple of extra sessions.  
+
+**Link to work:**  
+[CS50 Web track - homepage repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/homepage)  
+
+---------------------------------------------------------
+### Day 60: April 30, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
