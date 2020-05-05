@@ -755,7 +755,19 @@ Did some minor changes to all pages and tried to fix the footer. The contact pag
 [CS50 Web track - homepage repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/homepage)  
 
 ---------------------------------------------------------
-### Day 60: April 30, 2020.
+### Day 60: May 4, 2020.
+
+**Today's Progress:**  
+Finished the homepage assignment.  
+
+**Thoughts:**  
+Had to take another weekend of just to cool down a bit, but still tried to do some Python practice every night, mostly checking some libraries (tkinter) or practicing some code (like writing a Python version of my mergesort C code). The project itself is mostly a barebones, yet functional one. Managed to fix the carousel, add the JS required for the submit form, and tried to fix most of the CSS issues - they're still there, but I need to sit down and learn a bit more of CSS later. Tomorrow I can start working on the finance assignment.  
+
+**Link to work:**  
+[CS50 Web track - homepage repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/homepage)  
+
+---------------------------------------------------------
+### Day 61: May 5, 2020.
 
 **Today's Progress:**  
 
