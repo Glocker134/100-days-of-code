@@ -770,6 +770,18 @@ Had to take another weekend of just to cool down a bit, but still tried to do so
 ### Day 61: May 5, 2020.
 
 **Today's Progress:**  
+Started watching the finance assignment videos.  
+
+**Thoughts:**  
+First time using flask (and configuring it). There is a LOT of info packed in that first 54-minute long video. Gotta watch the video again from the mid-point to add the html blocks and work on the to-do app.
+
+**Link to work:**  
+None for today.  
+
+---------------------------------------------------------
+### Day 62: May 6, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
