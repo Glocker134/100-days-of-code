@@ -782,6 +782,18 @@ None for today.
 ### Day 62: May 6, 2020.
 
 **Today's Progress:**  
+Finished watching the flask video for the Finance assignment.  
+
+**Thoughts:**  
+Learned some neat concepts about Flask and how dynamic web pages can be built. I had a bit of a conflicting point of view related to one of the last parts of the lesson, specifically the choice between making a text form item "required" with the required attribute, or using javascript to deactivate the submit button unless the textfield has something inside. Personally I'd rather use the required attribute over the extra JS lines. Granted, the JS could be used to sanitize the user input and for extra checks, but for a basic instruction, the required attribute should be more than enough. 
+
+**Link to work:**  
+None for today.  
+
+---------------------------------------------------------
+### Day 63: May 7, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
