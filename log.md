@@ -794,6 +794,19 @@ None for today.
 ### Day 63: May 7, 2020.
 
 **Today's Progress:**  
+Finished watching the database video for the Finance assignment.  
+Prepared the finance assignment folder.  
+
+**Thoughts:**  
+This is the start of the final assignment before sitting down with the final project. Getting most of the concepts from the database video took me way past my daily hour, and I might need to revisit the walkthrough video in the morning.  
+
+**Link to work:**  
+[CS50 Web track - Finance repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/finance)  
+
+---------------------------------------------------------
+### Day 64: May 8, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
