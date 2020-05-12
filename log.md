@@ -804,7 +804,19 @@ This is the start of the final assignment before sitting down with the final pro
 [CS50 Web track - Finance repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/finance)  
 
 ---------------------------------------------------------
-### Day 64: May 8, 2020.
+### Day 64: May 11, 2020.
+
+**Today's Progress:**  
+Finished the user registration logic for the finance project.  
+
+**Thoughts:**  
+I used the weekend to practice a bit of JSON handling and reading the documentation related to the project (apart from setting up my local files so I can work without using CS50 IDE). The user registration works and the passwords are stored in hash as requested in the objectives. Login also works, but I need to work on the main menu/index page so I can display the data required for those tables, which requires a history table in the database. Doing little steps at a time because the project feels a bit too overwhelming.  
+
+**Link to work:**  
+[CS50 Web track - Finance repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/finance)  
+
+---------------------------------------------------------
+### Day 65: May 12, 2020.
 
 **Today's Progress:**  
 
