@@ -816,7 +816,19 @@ I used the weekend to practice a bit of JSON handling and reading the documentat
 [CS50 Web track - Finance repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/finance)  
 
 ---------------------------------------------------------
-### Day 65: May 12, 2020.
+### Day 65: May 18, 2020.
+
+**Today's Progress:**  
+Finished the basic logic for the quote function.  
+
+**Thoughts:**  
+Had to take a week off, the assignment was starting to feel a bit overwhelming. I tried doing a couple of GET requests using my sandbox API key, and now I understand how this API callback works. Granted, the assignment includes a set of helper functions that should do most of the "heavy lifting", like requesting a symbol quote, but it's nice to see how it works. Pending on the list is to "pseudo-code" the index situation, especially when the portfolio is empty and it should only display the account's available cash and total balance, and I still need to create the two extra tables in the database (transactions and portfolio).
+
+**Link to work:**  
+[CS50 Web track - Finance repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/finance)  
+
+---------------------------------------------------------
+### Day 66: May 19, 2020.
 
 **Today's Progress:**  
 
