@@ -831,6 +831,19 @@ Had to take a week off, the assignment was starting to feel a bit overwhelming. 
 ### Day 66: May 19, 2020.
 
 **Today's Progress:**  
+Fixed the logic for quote.  
+Started fixing the index page.  
+
+**Thoughts:**  
+Turns out I was using the wrong syntax for the render_template function, but now quote works as intended (it pays to check the errors on the terminal when running the app). Symbol validation is still pending (I need to check with the sandbox to see what happens when an unknown symbol is requested). Another item pending on the list is how to get a timestamp from SQLite3, so I can introduce that to the "history" table - Also both tables are still pending to be added to the DB.  
+
+**Link to work:**  
+[CS50 Web track - Finance repo link](https://github.com/Glocker134/CS50-projects/tree/master/pset8/finance)  
+
+---------------------------------------------------------
+### Day 67: May 20, 2020.
+
+**Today's Progress:**  
 
 **Thoughts:**  
 
